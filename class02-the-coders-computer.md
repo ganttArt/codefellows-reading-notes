@@ -12,7 +12,7 @@ Notes from [this article](https://codefellows.github.io/code-102-guide/curriculu
 Side Note: Explore Emmet as a shorthand language to write code faster
 
 ## Command Line Basics
-Command Line [tutorial](https://ryanstutorials.net/linuxtutorial/commandline.php) that covers the basics of a terminal including:
+Checked out this Command Line [tutorial](https://ryanstutorials.net/linuxtutorial/commandline.php) that covers the basics of a terminal including:
 - opening the terminal
 - pwd, ls, cd
 - relative and absolute paths (absolute paths will always begin with a forward slash)
