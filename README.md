@@ -1,4 +1,4 @@
-# Reading Notes README
+# CodeFellows Reading Notes
 ## Growth Mindset
 **Growth mindset** is a way of thinking that lean towards the belief that you will grow through learning, as opposed to a fixed mindset that rests on *flawed premis* that we are uncapable of becoming more than what we currently are. 
 
