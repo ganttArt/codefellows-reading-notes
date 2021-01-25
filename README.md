@@ -11,3 +11,7 @@ A great resource for learning about Growth Mindset can be found [here.](https://
 
 # Me: Chris Gantt
 Check out my [GitHub Portfolio](https://github.com/ganttArt) to checkout all of the software development work I have done up to now.
+
+# Table of Contents for Code 102
+- [Class 1 - Markdown](class01-markdown.md)
+- Item 2
