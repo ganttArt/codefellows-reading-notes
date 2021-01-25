@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# README
 
-You can use the [editor on GitHub](https://github.com/ganttArt/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Growth Mindset
+**Growth mindset** is a way of thinking that lean towards the belief that you will grow through learning, as opposed to a fixed mindset that rests on flawed premis that we are uncapable of becoming more than what we currently are. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A great resource for learning about Growth Mindset can be found [here.](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
-### Markdown
+### How can I keep myself in a growth mindset?
+1. When receiving criticism, face it and focus on learning from it instead of ignoring it.
+1. When a challenge arises, instead of avoiding it in fear, dive right on in and face it.
+1. When you see the success of others, don't view it as a threat, model their success as something to be inspired by.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Me: Chris Gantt
+Check out my [GitHub Portfolio](https://github.com/ganttArt) to checkout all of the software development work I have done up to now.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ganttArt/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Life is incomplete without emoji's. :smile:
+Checkout this page to for a [cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) on codes to add emoji's to markdown on github.
