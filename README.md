@@ -13,5 +13,4 @@ A great resource for learning about Growth Mindset can be found [here.](https://
 # Me: Chris Gantt
 Check out my [GitHub Portfolio](https://github.com/ganttArt) to checkout all of the software development work I have done up to now.
 
-Life is incomplete without emoji's. :smile:
-Checkout this page to for a [cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) on codes to add emoji's to markdown on github.
+
