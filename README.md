@@ -14,4 +14,4 @@ Check out my [GitHub Portfolio](https://github.com/ganttArt) to checkout all of 
 
 # Table of Contents for Code 102
 - [Class 1 - Markdown](class01-markdown.md)
-- Item 2
+- [Class 2 - The Coder's Computer](class02-the-coders-computer.md)
