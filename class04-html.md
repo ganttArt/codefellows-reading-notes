@@ -33,7 +33,13 @@
 - `<meta>` information about your website nested in your head tag
 - **Escape Characters**: characters that have a special meaning in html can be referenced in other ways using.
 
-![HTML escape characters](HTML-escape-characters.png)
+![HTML escape characters](HTML-escape-characters.png)  
 (From DUCKETT  HTML and CSS Design and Build Websites, p.194)
+
+## Lecture Notes
+
+- Create a placeholder image for your website. `<img src="https://via.placeholder.com/550x150">`
+- Lorem ipsum generators through google for text placeholders.
+
 
 [<==Back](README.md)
