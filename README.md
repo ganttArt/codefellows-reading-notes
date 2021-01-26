@@ -2,7 +2,7 @@
 
 ## Chris Gantt
 
-[GitHub Portfolio](https://github.com/ganttArt)
+[GitHub Portfolio](https://github.com/ganttArt)  
 [LinkedIn](https://www.linkedin.com/in/gantt/)
 
 ## Table of Contents for Code 102
