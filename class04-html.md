@@ -34,5 +34,6 @@
 - **Escape Characters**: characters that have a special meaning in html can be referenced in other ways using.
 
 ![HTML escape characters](HTML-escape-characters.png)
+(From DUCKETT  HTML and CSS Design and Build Websites, p.194)
 
 [<==Back](README.md)
