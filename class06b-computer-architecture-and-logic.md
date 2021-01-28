@@ -1,6 +1,6 @@
 # Class06b Computer Architecture and Logic
 
-Notes on videos from [How Comuters Work YouTube Playlist](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
+Notes on videos from [How Computers Work YouTube Playlist](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
 
 ## What makes a computer a computer?
 
