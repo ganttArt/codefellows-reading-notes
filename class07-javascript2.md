@@ -28,5 +28,6 @@
 
 - Article going in depth into [let, var, const](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/)
 - Calling a function in html without a button. Insert this where you want to invoke the function`<script>myFunction();</script>`
+- .innerHTML method can cause some security issues.
 
 [<==Back](README.md)
