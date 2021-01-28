@@ -15,6 +15,8 @@
 and then assigning values to each of the variables on separate lines.
 - variables can be used to store references to html elements  
 `var el = document.getElementById('cost')`
+- `===` checks value and data, called `strictly equals`
+  - can add `"use strict"` at top of javascript page to have javascript executed in strict mode.
 
 ## Variable Naming
 
