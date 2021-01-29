@@ -41,5 +41,13 @@
 - Create a placeholder image for your website. `<img src="https://via.placeholder.com/550x150">`
 - Lorem ipsum generators through google for text placeholders.
 
+## Extra: var vs let
+
+[let vs. var tutorial](https://www.javascripttutorial.net/es6/difference-between-var-and-let/)
+
+- `var`
+  - used to declare global variables
+  - var allows you to redeclare variables, `let` does not
+- `let` variables are not added to the global namespace
 
 [<==Back](README.md)
