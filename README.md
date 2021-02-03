@@ -2,7 +2,7 @@
 
 ## Chris Gantt
 
-[GitHub Portfolio](https://github.com/ganttArt)  
+[GitHub](https://github.com/ganttArt) ![GitHub Follow](https://img.shields.io/github/followers/ganttArt?label=Follow&style=social)  
 [LinkedIn](https://www.linkedin.com/in/gantt/)
 
 ## Code 102 Reading Notes
