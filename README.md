@@ -1,6 +1,6 @@
 # CodeFellows Reading Notes
 
-## Chris Gantt
+## Chris Gantt :computer:
 
 [![GitHub followers](https://img.shields.io/github/followers/ganttArt?label=Follow&style=social)](https://github.com/ganttArt)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/gantt/)
