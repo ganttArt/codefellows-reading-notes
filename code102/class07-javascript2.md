@@ -30,4 +30,4 @@
 - Calling a function in html without a button. Insert this where you want to invoke the function`<script>myFunction();</script>`
 - .innerHTML method can cause some security issues.
 
-[<==Back](README.md)
+[<==Back](/README.md)

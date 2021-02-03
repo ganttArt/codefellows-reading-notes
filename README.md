@@ -6,16 +6,16 @@
 
 ## Code 102 Reading Notes
 
-- [Class 1 - Markdown](class01-markdown.md)
-- [Class 1 - Growth Mindset](class01-growth-mindset.md)
-- [Class 2 - The Coder's Computer](class02-the-coders-computer.md)
-- [Class 3 - Revisions and the Cloud](class03-revisions-and-the-cloud.md)
-- [Class 4 - HTML](class04-html.md)
-- [Class 5 - CSS](class05-css.md)
-- [Class 6a - JavaScript](class06a-javascript.md)
-- [Class 6b - Computer Architecture and Logic](class06b-computer-architecture-and-logic.md)
-- [Class 7 - JavaScript](class07-javascript2.md)
-- [Class 8 - Operators and Loops](class08-operators-loops.md)
+- [Class 1 - Markdown](code102/class01-markdown.md)
+- [Class 1 - Growth Mindset](code102/class01-growth-mindset.md)
+- [Class 2 - The Coder's Computer](code102/class02-the-coders-computer.md)
+- [Class 3 - Revisions and the Cloud](code102/class03-revisions-and-the-cloud.md)
+- [Class 4 - HTML](code102/class04-html.md)
+- [Class 5 - CSS](code102/class05-css.md)
+- [Class 6a - JavaScript](code102/class06a-javascript.md)
+- [Class 6b - Computer Architecture and Logic](code102/class06b-computer-architecture-and-logic.md)
+- [Class 7 - JavaScript](code102/class07-javascript2.md)
+- [Class 8 - Operators and Loops](code102/class08-operators-loops.md)
 
 ## Code 201 Reading Notes
 

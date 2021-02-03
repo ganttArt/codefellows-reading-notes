@@ -13,4 +13,4 @@
 - CSS Properties Covered: color, background-color
 - RGB, HEX, Color Name, HSL/HSLA (Hue, Saturation, Lightness, Alpha)
 
-[<==Back](README.md)
+[<==Back](/README.md)

@@ -28,4 +28,4 @@ Notes on videos from [How Computers Work YouTube Playlist](https://www.youtube.c
 
 xor: Exclusive Or. Outputs true only when the inputs differ.
 
-[<==Back](README.md)
+[<==Back](/README.md)

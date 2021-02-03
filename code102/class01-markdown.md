@@ -10,12 +10,11 @@ A guide on markdown for GitHub is [here.](https://guides.github.com/features/mas
 
 ## GitHub pages
 
-GitHub pages is an easy way to create a webpage using markdown. You can enable a github page by going to settings and turning that feature on, the page will show the information from your repo's README.md file. 
+GitHub pages is an easy way to create a webpage using markdown. You can enable a github page by going to settings and turning that feature on, the page will show the information from your repo's README.md file.
 
 Github leverages Jekyll to give github pages styled themes. You can choose a theme in the repo settings under github pages and when you enable this feature, github will create a config.yml file in your repo that stores the jekyll theme information. The theme will not be reflected in the repo README, but it will be reflected in the github pages website corresponding.
 
 --
 Here is a [resource for github markdown syntax.](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
-
-[<== Back](README.md)
+[<== Back](/README.md)
