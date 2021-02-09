@@ -29,7 +29,7 @@ See [notes from Code102](../code102/class05-css.md).
 
 - p.53-69 See [notes from Code102](../code102/class06a-javascript.md). Covers using variables and some datatypes.
 - p.70-73 Creating arrays and indexing arrays. Similar to python arrays at first glance.
-- p.74-84 covers using arithmetic operators on numbers and strings (just + operator for strings).
+- p.74-84 covers using arithmetic operators on numbers and strings (just + operator for strings). Examples include += <= - *
 
 ### Duckett JS Chapter 4: “Decisions and Loops” only up to the section on switch statements (pp.145-162)
 
