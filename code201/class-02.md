@@ -23,8 +23,21 @@
 
 ### Duckett HTML Chapter 10: “Introducing CSS” (pp.226-245)
 
+See [notes from Code102](../code102/class05-css.md).
+
 ### Duckett JS Chapter 2: “Basic JavaScript Instructions” (pp.53-84)
 
+- p.53-69 See [notes from Code102](../code102/class06a-javascript.md). Covers using variables and some datatypes.
+- p.70-73 Creating arrays and indexing arrays. Similar to python arrays at first glance.
+- p.74-84 covers using arithmetic operators on numbers and strings (just + operator for strings).
+
 ### Duckett JS Chapter 4: “Decisions and Loops” only up to the section on switch statements (pp.145-162)
+
+- This section covers using conditionals like if...else statements in tandem with comparison operators.
+- Comparison Operators
+  - `==` `!=`
+  - Strictly Equal and not Equal preferable `===` `!==`
+  - Use brackets parenthesis on comparison operators `(score >= pass)`
+  - `&&` and, `||` or, `!` not
 
 [<== Back](/README.md)
