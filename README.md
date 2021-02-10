@@ -21,7 +21,7 @@
 
 - [Class 1 - Introductory HTML and JavaScript](code201/class-01.md)
 - [Class 2 - Basics of HTML, CSS & JS](code201/class-02.md)
-- [Class 3](code201/class-03.md)
+- [Class 3 - HTML Lists, Control Flow with JS, and the CSS Box Model](code201/class-03.md)
 - [Class 4](code201/class-04.md)
 - [Class 5](code201/class-05.md)
 - [Class 6](code201/class-06.md)
