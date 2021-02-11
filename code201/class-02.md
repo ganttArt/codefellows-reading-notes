@@ -1,4 +1,4 @@
-# Class 2
+# Class 2, February 9 2021
 
 ## Read02: Basics of HTML, CSS & JS
 
@@ -39,5 +39,19 @@ See [notes from Code102](../code102/class05-css.md).
   - Strictly Equal and not Equal preferable `===` `!==`
   - Use brackets parenthesis on comparison operators `(score >= pass)`
   - `&&` and, `||` or, `!` not
+
+## In-Class Notes
+
+- VS Code Shortcuts
+  - command + b
+    - open/close file explorer side panel
+  - command + j
+    - open/close console
+- css rem size, changes based on the size an m would be rendered on your screen
+- [gitignore.io](https://www.toptal.com/developers/gitignore)
+- Use the gitignore from the class repo
+- Introduction of a user story and feature tasks
+- command shift .
+  - to show hidden files in mac finder
 
 [<== Back](/README.md)

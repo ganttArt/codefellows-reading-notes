@@ -1,4 +1,4 @@
-# Class 3
+# Class 3, Feb 10 2021
 
 ## Read03: HTML Lists, Control Flow with JS, and the CSS Box Model
 
@@ -48,5 +48,13 @@
   - `if (document.getElementById('header')){}`
 - examples of for loops and while loops in javascript shown
   - break and continue keywords used in js
+
+## In-Class Notes
+
+- Use a do while when you want to make sure your code will run at least once, regardless of whether or not the condition is met.
+- repl.it - code js on the fly
+- Use ? to access the index value as opposed to the value of that index
+- Loop over array in for loop by using i < myList.length
+- shorthand for loop: for (let item of myList){}
 
 [<== Back](/README.md)
