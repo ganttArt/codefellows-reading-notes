@@ -49,6 +49,8 @@
 - examples of for loops and while loops in javascript shown
   - break and continue keywords used in js
 
+---
+
 ## In-Class Notes
 
 - Use a do while when you want to make sure your code will run at least once, regardless of whether or not the condition is met.
@@ -56,5 +58,6 @@
 - Use ? to access the index value as opposed to the value of that index
 - Loop over array in for loop by using i < myList.length
 - shorthand for loop: for (let item of myList){}
+![css-box-sizing](images/css-box-sizing.png)
 
 [<== Back](/README.md)

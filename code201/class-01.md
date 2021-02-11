@@ -1,4 +1,4 @@
-# Class 1
+# Class 1, February 8 2021
 
 ## Read01: Introductory HTML and JavaScript
 

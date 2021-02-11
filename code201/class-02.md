@@ -40,6 +40,8 @@ See [notes from Code102](../code102/class05-css.md).
   - Use brackets parenthesis on comparison operators `(score >= pass)`
   - `&&` and, `||` or, `!` not
 
+---
+
 ## In-Class Notes
 
 - VS Code Shortcuts
