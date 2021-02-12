@@ -4,7 +4,10 @@
 
 ### Duckett HTML Chapter 5: “Images” (pp.94-125)
 
-
+- use css to align images, not html
+- optimize: save in common format, save image at same size as you want it displayed, higher resolution images take longer to load.
+- nesting an image tag in a figure tag, so you can use figcaption tag to contain a caption for the image.
+- rest of chapter discussed general information about images I already know.
 
 ### Duckett HTML Chapter 11: “Color” (pp.246-263)
 
