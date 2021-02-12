@@ -50,4 +50,4 @@
   - var allows you to redeclare variables, `let` does not
 - `let` variables are not added to the global namespace
 
-[<==Back](/README.md)
+[<==Back](../README.md)

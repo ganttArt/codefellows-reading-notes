@@ -1,3 +1,3 @@
 # Class 10
 
-[<== Back](/README.md)
+[<== Back](../README.md)

@@ -35,4 +35,4 @@
 - attribute selectors: see [CSS Diner](https://flukeout.github.io/) for practice
 ![attribute-selectors](images/attribute-selectors.png)
 
-[<== Back](/README.md)
+[<== Back](../README.md)

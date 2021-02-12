@@ -60,4 +60,4 @@
 - shorthand for loop: for (let item of myList){}
 ![css-box-sizing](images/css-box-sizing.png)
 
-[<== Back](/README.md)
+[<== Back](../README.md)

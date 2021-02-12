@@ -17,4 +17,4 @@ Github leverages Jekyll to give github pages styled themes. You can choose a the
 --
 Here is a [resource for github markdown syntax.](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 
-[<== Back](/README.md)
+[<== Back](../README.md)

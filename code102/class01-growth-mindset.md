@@ -10,4 +10,4 @@ A great resource for learning about Growth Mindset can be found [here.](https://
 1. When a challenge arises, instead of avoiding it in fear, dive right on in and face it.
 1. When you see the success of others, don't view it as a threat, model their success as something to be inspired by.
 
-[<== Back](/README.md)
+[<== Back](../README.md)

@@ -27,4 +27,4 @@ and then assigning values to each of the variables on separate lines.
   - numbers (cannot begin variable with a number)
 - camelCase
 
-[<==Back](/README.md)
+[<==Back](../README.md)

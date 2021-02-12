@@ -56,4 +56,4 @@ See [notes from Code102](../code102/class05-css.md).
 - command shift .
   - to show hidden files in mac finder
 
-[<== Back](/README.md)
+[<== Back](../README.md)

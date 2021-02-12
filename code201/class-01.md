@@ -50,4 +50,4 @@ See notes about considerations when designing a web page from [code102](/code102
 - `live-server` command in terminal to start server in your working directory.
 - use `!` in vscode first line of html to insert html boilerplate.
 
-[<== Back](/README.md)
+[<== Back](../README.md)
