@@ -34,8 +34,4 @@
 - Two roles in pair programming, the navigator and the driver.
 - This skill can improve your codebase, improve communication skills, improve knowledge about software development, and doing this in codefellows will prepare me for this skill often used in agile teams.
 
----
-
-## Lecture Notes
-
 [<== Back](/README.md)
