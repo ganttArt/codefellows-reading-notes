@@ -1,4 +1,4 @@
-# Class 4, Febrary 11 2021
+# Class 4, February 11 2021
 
 ## Read04: HTML Links, JS Functions, and Intro to CSS Layout
 
