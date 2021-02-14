@@ -35,4 +35,18 @@
 - attribute selectors: see [CSS Diner](https://flukeout.github.io/) for practice
 ![attribute-selectors](images/attribute-selectors.png)
 
+## Lecture Notes
+
+### Git branch process
+
+- git checkout -b branch-name local
+- make changes, acp/ set upstream for push
+  - git push -u origin branch-name
+- make pull request on github, makesure it is going to your own github repo, not the class repo
+- approve pull request
+- git checkout main
+- git pull
+- git branch -D problem-1
+- repeat
+
 [<== Back](../README.md)
