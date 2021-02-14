@@ -24,6 +24,7 @@
 - [Class 3 - HTML Lists, Control Flow with JS, and the CSS Box Model](code201/class-03.md)
 - [Class 4 - HTML Links, JS Functions, and Intro to CSS Layout](code201/class-04.md)
 - [Class 5 - Images, Color, Text](code201/class-05.md)
+- [Partner Power Hour - Kubernetes](code201/pph-kubernetes.md)
 - [Class 6 - JS Object Literals; The DOM](code201/class-06.md)
 - [Class 7 - HTML Tables; JS Constructor](code201/class-07.md)
 - [Class 8 - More CSS Layout](code201/class-08.md)
