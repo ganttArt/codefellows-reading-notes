@@ -4,12 +4,12 @@
 
 ### Article: Understanding the problem domain is the hardest part of programming
 
+[Article](https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming)
+
 - When you don't have a clear understanding of what the problem is that you're trying to solve, it is exceptionally hard to solve it.
 - This can be allievated by spending more time at the beginning learning about the problem domain, what exactly is the problem?
 - Alternatively, you can brake the problem down into smaller chunks.
 - If you don't understand what it is you're trying to solve for, spend more time figuring that out before diving into code. It will save you time down the road.
-
-[Article](https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming)
 
 ### Duckett JS Chapter 3: “Object Literals” (pp.100-105)
 
