@@ -48,4 +48,13 @@
   - in jQuery, use .text(), not .html()
 - setAttribute and removeAttribute methods
 
+## Lecture Notes
+
+- Signature of a function: What is the input and what is the output.
+- imgElem.setAttribute('src', 'images/kittenName.jpg')
+- Creating a new element with JS
+  - let bioElem = document.createElement('p');
+  - articleElem.appendChild(bioElem);
+  - bioElem.textContent = frankie.bio;
+
 [<== Back](../README.md)
