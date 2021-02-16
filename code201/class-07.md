@@ -29,4 +29,8 @@
 - p.128-135 built in functions for working with strings and math/numbers
 - p.136-139 Working with Date objects
 
+## Lecture Notes
+
+- contructor functions start with a capital letter, pascal case
+
 [<== Back](../README.md)
