@@ -13,6 +13,12 @@
 
 ### Duckett HTML Chapter 6: “Tables” (pp.126-145)
 
+- `<table> <tr>row <td>data <th>head`
+- colspan and rowspan as attributes to have data span multiple spaces
+- `<thead> <tbody> <tfoot>` distinguish the content of the table
+- 'old'/depreciated attributes: width, border, spacing and background
+![table example](images/table-example.png)
+
 ### Duckett JS Chapter 3: “Functions, Methods, and Objects” (pp.106-144)
 
 [<== Back](../README.md)
