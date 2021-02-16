@@ -21,4 +21,12 @@
 
 ### Duckett JS Chapter 3: “Functions, Methods, and Objects” (pp.106-144)
 
+- Creating a constructor using `function Hotel(name, rooms){this.name = name; this.rooms = rooms;}`
+- add a new property by assigning it to the object outside of the constructor: `hotel.gym = true;`
+- delete with `delete hotel.gym`
+- using `this.`
+- browser objcts: window & document
+- p.128-135 built in functions for working with strings and math/numbers
+- p.136-139 Working with Date objects
+
 [<== Back](../README.md)
