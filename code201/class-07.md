@@ -32,5 +32,6 @@
 ## Lecture Notes
 
 - contructor functions start with a capital letter, pascal case
+- use prototype to add a function to a class(an object defined with a constructor)
 
 [<== Back](../README.md)

@@ -22,4 +22,9 @@ Important summary points from page 404:
 - Designers keep pages within 960-1000 pixels wide, and indicate what the site is about within the top 600 pixels (to demonstrate its relevance without scrolling).
 - Grids help create professional and flexible designs.
 
+## Lecture Notes
+
+- [Why you should use prototype to create class methods in JavaScript](https://medium.com/the-andela-way/why-you-should-use-prototype-to-create-class-methods-in-javascript-ffaf82996977)
+  - the short answer: it's more resourceful. methods will not be saved with every object created, so using prototype is less memory intensive.
+
 [<== Back](../README.md)
