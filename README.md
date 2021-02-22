@@ -18,7 +18,7 @@
 - [Class 9 - Forms and Events](code201/class-09.md)
 - [Class 10 - JS Debugging](code201/class-10.md)
 - [Class 11 - Assorted Topics](code201/class-11.md)
-- [Class 12 - Docs for the HTML canvas Element & Chart.js](code201/class-12.md)
+- [Class 12 - Chart.js & canvas](code201/class-12.md)
 - [Class 13 - Local Storage](code201/class-13.md)
 - [Class 14a - CSS Transforms, Transitions, and Animations](code201/class-14a.md)
 - [Class 14b - What Google Learned About Teams](code201/class-14b.md)
