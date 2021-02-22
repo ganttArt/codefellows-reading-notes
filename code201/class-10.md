@@ -16,4 +16,17 @@
 - `throw new Error('message');`
 - NaN is not an error. To catch it you have to use a conditional if (!isNan()){}
 
+## Git Notes from Lab10c
+
+- echo '*.tmp' > .gitignore
+- git diff
+  - will show differences in working directory and last commit, does not include changes staged
+- git show
+  - will show changes staged for upcoming commit
+- use ‘q’ to get out of git log
+- git revert
+  - to undo last commit
+- git rebase
+  - a potentially dangerous way to resolve merge conflicts
+
 [<== Back](../README.md)
