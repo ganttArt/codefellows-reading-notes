@@ -30,4 +30,10 @@
 - use source tag in video tag to define the source and the type of video for different browsers
 - add event listeners to play,  pause and stop media
 
+## Lecture Notes
+
+- box-sizing: border-box css property: accounts for borders when assigning widths
+  - feel free to apply to everything with * {} in css file
+- Overlapping elements can occur by setting position of the thing you want to move to relative and then changing it's directional (top, left, down, right) property.
+
 [<== Back](../README.md)
