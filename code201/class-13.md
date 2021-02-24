@@ -29,6 +29,8 @@
 - because we're storing an ordered list in localStorage as JSON data, when we get that item back it will still be an ordered list. If we were putting unordered objects in localStorage, then they will be unsorted.
 - check if something is in localStorage with the .length property, or by trying to call the key
 
+![local storage flow chart](images/localStorage-flowchart.png)
+
 Article: [Local Storage vs Session Storage vs Cookie](https://krishankantsinghal.medium.com/local-storage-vs-session-storage-vs-cookie-22655ff75a8)
 
 [<== Back](../README.md)
