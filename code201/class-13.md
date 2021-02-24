@@ -15,4 +15,17 @@
 - Limitation: 5mb storage per domain (storage quota) and you cannot ask the user for more storage space.
 - The future is undecided, it might include a sql database in the form of WebDB or something else.
 
+## Lecture Notes
+
+```javascript
+  jsonCats = JSON.stringify(allCats);
+  localStorage.setItem('keyName', jsonCats);
+  catsFromStorage = localStorage.getItem('keyName');
+  jsCats = JSON.parse(catsFromStorage);
+```
+
+- can use localStorage.clear() to clear local storage
+- once parsed from localStorage, the objects are no longer instances of the class defined in the constructor. Will not retain any methods.
+- because we're storing an ordered list in localStorage as JSON data, when we get that item back it will still be an ordered list. If we were putting unordered objects in localStorage, then they will be unsorted.
+
 [<== Back](../README.md)
