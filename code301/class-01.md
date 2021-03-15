@@ -62,4 +62,19 @@ class Welcome extends React.Component {
 - If a part of your UI is used several times, or is complex enough on it's own, it is a good candidate to be extracted to a separate component
 - Within a function you cannot modify a prop. Props are read only. Do not change the inputs of a function, and in this case, do not modify the props you've had passed in.
 
+## In-Class Notes
+
+![JS Classes Review](images/JS-class-review.png)
+
+``` bash
+npx create-react-app app-name
+cd app-name
+npm start
+```
+
+- `<> </>` this is an html fragment and you can wrap things in this instead of a div. But be really mindful about this.
+- forEach method on arrays only. you cannot change the array with forEach.
+  - `arr.forEach(value, index) => {}`
+- use xdescribe instead of describe on your tests to not run those tests.
+
 [<== Back](../README.md)

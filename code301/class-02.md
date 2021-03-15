@@ -12,7 +12,7 @@
 
 -
 
-## [Developer Tools](https://reactjs.org/tutorial/tutorial.html)
+## [React Tutorial through Dev Tools](https://reactjs.org/tutorial/tutorial.html)
 
 -
 
