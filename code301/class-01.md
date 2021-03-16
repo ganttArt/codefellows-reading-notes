@@ -1,6 +1,6 @@
 # Introduction to React and Components
 
-## [Passing Data Through Props](https://reactjs.org/tutorial/tutorial.html)
+## [React Tutorial through 'Developer Tools'](https://reactjs.org/tutorial/tutorial.html)
 
 - A component takes in parameters called props, and returns a hierarchy of views to display via the render method
 - use React.createElement to create a new tag element
