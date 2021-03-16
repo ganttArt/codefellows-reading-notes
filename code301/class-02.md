@@ -57,4 +57,25 @@ See notes taken for this section in [class 1 notes](class-01.md)
 
 ![Netlify Heroku Comparison](images/Netlify-Heroku-Comparison.png)
 
+## In-Class Notes
+
+### Map
+
+- Map loops through an array, and what you return will add a modified item to a new array.
+- If you do a map on one-line, it is implicitly returned.
+- You can pass in value, index and array into map, just like with forEach.
+
+### More
+
+- To specify class to an html tag in jsx, you need to use className instead of class.
+- Props are properties that you send in to a child component when you call the component. For example `<HornedBeast title='narwhal' />`. title is a prop here.
+- Don't need to use .js extensions on imports.
+- Props is passed down behind the scenes if you don't create a constructor. If you do create a constructor, you need to pass in props and call super(props).
+- If you're using an image on your page that is in your project directory, you need to import the image. Using a relative path in src will not work.
+- When you use an arrow function in React, you do not need to explicitly bind it to the class.
+- Arrow functions will allow `this` to escape. Meaning it refers to the context in which the arrow function is in. This means that in React we don't need to use bind, but also means that we need to be careful about the scope that the arrow function is in. Using it to define a prototype function causes problems.
+- We can also using binding for `this`, like here: `this.handleClick = this.handleClick.bind(this);`
+- [https://emojifinder.com](https://emojifinder.com)
+- [http://caniemoji.com/](http://caniemoji.com/)
+
 [<== Back](../README.md)
