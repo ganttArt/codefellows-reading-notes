@@ -55,3 +55,25 @@
 - Doesn't work on older browsers
 - Using the spread operator creates a new reference, always copying them.
 - Doesn't work with nested arrays
+
+## In-Class Notes
+
+- Curly braces in jsx signals you are going to add some javascript
+- need to add a key to a map in jsx
+- Two ways to use filter:
+
+``` javascript
+numbers.filter(number => number % 2 === 0)
+
+students.filter((student, index) => {
+  return student.startsWith('J');
+});
+```
+
+- To change the state of the parent component from the child...
+  - Define a function in the parent component
+  - pass it into the child component as props
+  - call the function from the child component
+- turnary operator `return x > y ? x : y;`
+  - if x > y, then x, else y
+  - if you want to only do something if it is true `return x > y ? x : null;`
