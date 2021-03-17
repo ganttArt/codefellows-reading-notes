@@ -78,4 +78,6 @@ See notes taken for this section in [class 1 notes](class-01.md)
 - [https://emojifinder.com](https://emojifinder.com)
 - [http://caniemoji.com/](http://caniemoji.com/)
 
+![Event Handling](images/EventHandling.png)
+
 [<== Back](../README.md)
