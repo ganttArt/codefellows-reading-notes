@@ -40,5 +40,19 @@
 
 - [Class 1 - Introduction to React and Components](code301/class-01.md)
 - [Class 2 - State and Props](code301/class-02.md)
+- [Class 3 - Passing Functions as Props](code301/class-03.md)
+- [Class 4](code301/class-04.md)
+- [Class 5](code301/class-05.md)
+- [Class 6](code301/class-06.md)
+- [Class 7](code301/class-07.md)
+- [Class 8](code301/class-08.md)
+- [Class 9](code301/class-09.md)
+- [Class 10](code301/class-10.md)
+- [Class 11](code301/class-11.md)
+- [Class 12](code301/class-12.md)
+- [Class 13](code301/class-13.md)
+- [Class 14](code301/class-14.md)
+- [Class 15](code301/class-15.md)
+
 
 ## Code 401 - Advanced Software Development
