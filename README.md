@@ -38,11 +38,11 @@
 
 ## Code 301 - Intermediate Software Development
 
-- [Class 1 - Introduction to React and Components](code301/class-01.md)
-- [Class 2 - State and Props](code301/class-02.md)
-- [Class 3 - Passing Functions as Props](code301/class-03.md)
-- [Class 4](code301/class-04.md)
-- [Class 5](code301/class-05.md)
+- [Class 1 - React: Intro to React and Components](code301/class-01.md)
+- [Class 2 - React: State and Props](code301/class-02.md)
+- [Class 3 - React: Passing Functions as Props](code301/class-03.md)
+- [Class 4 - React: Forms](code301/class-04.md)
+- [Class 5 - React: Thinking in React](code301/class-05.md)
 - [Class 6](code301/class-06.md)
 - [Class 7](code301/class-07.md)
 - [Class 8](code301/class-08.md)
