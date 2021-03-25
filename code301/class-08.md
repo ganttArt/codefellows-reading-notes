@@ -1,4 +1,4 @@
-# Class 8 - APIs
+# Class 8 - SuperAgent and Regular Expressions
 
 ## [SuperAgent](https://visionmedia.github.io/superagent/)
 
@@ -19,3 +19,7 @@
 
 - This is another resource to experiment with Regular Expressions
 - Checkout the quick reference section at the bottom right to see some ways to make regular expressions.
+
+## More on Regular Expressions
+
+![regex functions](images/regex-functions.png)
