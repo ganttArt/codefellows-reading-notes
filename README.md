@@ -47,7 +47,7 @@
 - [Class 7 - APIs: Thinking about REST](code301/class-07.md)
 - [Class 8 - SuperAgent & RegEx](code301/class-08.md)
 - [Class 9 - Functional Programming](code301/class-09.md)
-- [Class 10](code301/class-10.md)
+- [Class 10 - The call stack, errors and debugging](code301/class-10.md)
 - [Class 11](code301/class-11.md)
 - [Class 12](code301/class-12.md)
 - [Class 13](code301/class-13.md)
