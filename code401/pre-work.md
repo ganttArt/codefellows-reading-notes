@@ -53,7 +53,23 @@ Finally: If you practice and you will get better at solving problems.
 
 ### [What the heck is the event loop anyway](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
--
+Chrome V8 - Behind The Scenes
+
+![Chrome V8 - Behind The Scenes](images/ChromeV8.png)
+
+- JS is single threaded, has a single callstack, and thus does one thing at a time
+- `Stack Trace` - the state of the call stack that shows up when an error pops up
+  - Top one listed is where the error happened, and then below it you can trace what happened to get to this error (what the call stack looks like when your error occured)
+- `Range Error: Maximum call stack size exceeded`
+  - Most likely due to a function calling itself and those returns never getting resolved
+- Blocking: Things on the stack that are taking a long time and thus are slowing other things down
+- When js needs to use a web api like setTimeout, once the browser's web api has completed its task it is pushed to the task queue. If the call stack is empty, the event loop takes the first thing in the queue and moves it into the call stack.
+- Can wrap a function in setTimeout to 0 time, just so it runs after the call stack has been cleared.
+- Two definitions of callbacks. One is a function that another function uses. The other is an async function that utilizes the callback queue.
+- Filling up the call stack blocks the browser render. Filling up the callback queue quickly/temporarily blocks the render, but then allows the render occur on and off while the callback queue is gone through
+- Don't block the event loop, basically means to not fill up your call stack so things aren't being rendered anymore.
+- This has big implications for things like image manipulation/processing. If you are doing a big change to your image, your call stack will be blocking the event loop until the processing is done.
+- Make sure you don't flood the callback queue with events. Example shown, having an animation on scroll. If you are scrolling all the time through the site, the callback queue is getting flooded with events it needs to handle. So do some checking with something like this.
 
 ### [The Super Mario Effect](https://www.youtube.com/watch?v=9vJRopau0g0)
 
