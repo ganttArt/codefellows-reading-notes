@@ -57,3 +57,4 @@
 ## Code 401 - Advanced Software Development
 
 - [Class 0 - PreWork](code401/pre-work.md)
+- [Class 1 - Node Ecosystem, TDD, CI/CD](code401/class-01.md)
