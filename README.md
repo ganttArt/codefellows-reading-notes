@@ -51,10 +51,9 @@
 - [Class 11 - Authorization & Authentication](code301/class-11.md)
 - [Class 12 - Mongo & Mongoose](code301/class-12.md)
 - [Class 13 - CRUD & Sending Form data](code301/class-13.md)
-- [Class 14](code301/class-14.md)
-- [Class 15 - D&I](code301/class-15.md)
+- [Class 14 - D&I](code301/class-14.md)
 
 ## Code 401 - Advanced Software Development
 
 - [Class 0 - PreWork](code401/pre-work.md)
-- [Class 1 - Node Ecosystem, TDD, CI/CD](code401/class-01.md)
+- [Class 1 - Map, Reduce, Promises & Callbacks](code401/class-01.md)

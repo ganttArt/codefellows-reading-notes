@@ -1,4 +1,4 @@
-# Class 1: Node Ecosystem, TDD, CI/CD
+# Class 1 - Map, Reduce, Promises & Callbacks
 
 1. Describe (in plain English) what Array.map() does
     - The map method returns a new modified array by iterating through each item in the array the method is called on, and modifying each item based on the changes you want.
