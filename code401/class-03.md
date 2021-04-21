@@ -30,9 +30,9 @@
 
 ## Preview
 
-[Review: ES6 Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
-[Using Express Routing](https://expressjs.com/en/guide/routing.html)
-[Express Routing](https://scotch.io/tutorials/learn-to-use-the-new-router-in-expressjs-4)
+[Review: ES6 Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)  
+[Using Express Routing](https://expressjs.com/en/guide/routing.html)  
+[Express Routing](https://scotch.io/tutorials/learn-to-use-the-new-router-in-expressjs-4)  
 
 - Which 3 things had you heard about previously and now have better clarity on?
   - ES6 Classes, we used these in 201 and now I just know that these are referred to as ES6 classes as opposed to anything else.
