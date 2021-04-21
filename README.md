@@ -58,3 +58,4 @@
 - [Class 0 - PreWork](code401/pre-work.md)
 - [Class 1 - Map, Reduce, Promises & Callbacks](code401/class-01.md)
 - [Class 2 - Express](code401/class-02.md)
+- [Class 3 - Express REST API](code401/class-03.md)
