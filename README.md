@@ -62,3 +62,4 @@
 - [Class 4 - Data Modeling](code401/class-04.md)
 - [Class 6 - Authentication](code401/class-06.md)
 - [Class 7 - Bearer Authorization](code401/class-07.md)
+- [Class 8 - Access Control (ACL)](code401/class-08.md)
