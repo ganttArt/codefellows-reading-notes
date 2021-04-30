@@ -63,3 +63,4 @@
 - [Class 6 - Authentication](code401/class-06.md)
 - [Class 7 - Bearer Authorization](code401/class-07.md)
 - [Class 8 - Access Control (ACL)](code401/class-08.md)
+- [Class 9 - Stacks & Queues](code401/class-09.md)
