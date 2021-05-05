@@ -67,3 +67,6 @@
 - [Class 9 - What's Your Purpose](code401/purpose-practice.md)
 - [Class 11 - Event Driven Applications](code401/class-11.md)
 - [Class 12 - Socket.io](code401/class-12.md)
+- [Class 13 - Message Queues](code401/class-13.md)
+- [Class 14 - Event Driven Architecture](code401/class-14.md)
+- [Class 15 - Trees](code401/class-15.md)
