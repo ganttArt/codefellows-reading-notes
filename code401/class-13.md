@@ -41,6 +41,6 @@
 
 ## Preparation Materials
 
-[Socket.io Chat Example](https://socket.io/get-started/chat/)
-[Rooms and Namespaces](https://socket.io/docs/rooms-and-namespaces/)
-[Socket.io Emit Cheatsheet](https://socket.io/docs/emit-cheatsheet/)
+- [Socket.io Chat Example](https://socket.io/get-started/chat/)
+- [Rooms and Namespaces](https://socket.io/docs/rooms-and-namespaces/)
+- [Socket.io Emit Cheatsheet](https://socket.io/docs/emit-cheatsheet/)
