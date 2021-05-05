@@ -66,3 +66,4 @@
 - [Class 9 - Stacks & Queues](code401/class-09.md)
 - [Class 9 - What's Your Purpose](code401/purpose-practice.md)
 - [Class 11 - Event Driven Applications](code401/class-11.md)
+- [Class 12 - Socket.io](code401/class-12.md)
