@@ -32,8 +32,8 @@
 
 ## Preparation Materials
 
-[Virtual Machines](https://www.youtube.com/watch?v=yIVXjl4SwVo) (Bookmark This)
-[VMS and the Cloud](https://www.youtube.com/watch?v=l0DfHUWMjsU) (Bookmark This)
-[AWS EC2](https://aws.amazon.com/ec2/)
-[EC2 For Humans](https://www.youtube.com/watch?v=lZMkgOMYYIg)
-[Elastic Beanstalk](https://www.youtube.com/watch?v=SrwxAScdyT0)
+- [Virtual Machines](https://www.youtube.com/watch?v=yIVXjl4SwVo) (Bookmark This)
+- [VMS and the Cloud](https://www.youtube.com/watch?v=l0DfHUWMjsU) (Bookmark This)
+- [AWS EC2](https://aws.amazon.com/ec2/)
+- [EC2 For Humans](https://www.youtube.com/watch?v=lZMkgOMYYIg)
+- [Elastic Beanstalk](https://www.youtube.com/watch?v=SrwxAScdyT0)
