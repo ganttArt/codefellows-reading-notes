@@ -70,3 +70,4 @@
 - [Class 13 - Message Queues](code401/class-13.md)
 - [Class 14 - Event Driven Architecture](code401/class-14.md)
 - [Class 15 - Trees](code401/class-15.md)
+- [Class 16 - AWS: Cloud Servers](code401/class-16.md)
