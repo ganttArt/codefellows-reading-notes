@@ -71,3 +71,4 @@
 - [Class 14 - Event Driven Architecture](code401/class-14.md)
 - [Class 15 - Trees](code401/class-15.md)
 - [Class 16 - AWS: Cloud Servers](code401/class-16.md)
+- [Class 17 - AWS: S3 and Lambda](code401/class-17.md)
