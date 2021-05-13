@@ -73,3 +73,4 @@
 - [Class 16 - AWS: Cloud Servers](code401/class-16.md)
 - [Class 17 - AWS: S3 and Lambda](code401/class-17.md)
 - [Class 18 - AWS: API, Dynamo and Lambda](code401/class-18.md)
+- [Class 19 - AWS: Events](code401/class-19.md)
