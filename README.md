@@ -55,6 +55,8 @@
 
 ## Code 401 - Advanced Software Development
 
+### Backend
+
 - [Class 0 - PreWork](code401/pre-work.md)
 - [Class 1 - Map, Reduce, Promises & Callbacks](code401/class-01.md)
 - [Class 2 - Express](code401/class-02.md)
@@ -74,3 +76,7 @@
 - [Class 17 - AWS: S3 and Lambda](code401/class-17.md)
 - [Class 18 - AWS: API, Dynamo and Lambda](code401/class-18.md)
 - [Class 19 - AWS: Events](code401/class-19.md)
+
+### Frontend
+
+- [Class 26 - Component Based UI](code401/class-26.md)
