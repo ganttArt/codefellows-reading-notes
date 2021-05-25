@@ -65,13 +65,11 @@
 - [Class 6 - Authentication](code401/class-06.md)
 - [Class 7 - Bearer Authorization](code401/class-07.md)
 - [Class 8 - Access Control (ACL)](code401/class-08.md)
-- [Class 9 - Stacks & Queues](code401/class-09.md)
 - [Class 9 - What's Your Purpose](code401/purpose-practice.md)
 - [Class 11 - Event Driven Applications](code401/class-11.md)
 - [Class 12 - Socket.io](code401/class-12.md)
 - [Class 13 - Message Queues](code401/class-13.md)
 - [Class 14 - Event Driven Architecture](code401/class-14.md)
-- [Class 15 - Trees](code401/class-15.md)
 - [Class 16 - AWS: Cloud Servers](code401/class-16.md)
 - [Class 17 - AWS: S3 and Lambda](code401/class-17.md)
 - [Class 18 - AWS: API, Dynamo and Lambda](code401/class-18.md)
@@ -82,3 +80,10 @@
 - [Class 26 - Component Based UI](code401/class-26.md)
 - [Class 27 - Props & State](code401/class-27.md)
 - [Class 28 - Component Composition](code401/class-28.md)
+- [Class 29 - Routing](code401/class-29.md)
+
+### Data Structures
+
+- [Stacks & Queues](code401/class-09.md)
+- [Trees](code401/class-15.md)
+- [Hash Tables](code401/class-30.md)
