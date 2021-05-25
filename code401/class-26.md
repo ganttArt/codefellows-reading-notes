@@ -20,7 +20,7 @@
 ## Preview
 
 1. Which 3 things had you heard about previously and now have better clarity on?
-    - Declaritive vs. imperative. React is Declarative and that is a good upgrade from previous js frameworks, because it is actually making the code easier to read and work with.
+    - Declarative vs. imperative. React is Declarative and that is a good upgrade from previous js frameworks, because it is actually making the code easier to read and work with.
     - React continually re-renders html/jsx elements, not just hides them. If you have to force the page to reload, you're doing something wrong.
     - Why people think React is so much better than anything else. When considering the history of React, you can see that React comes up as a way to improve what was the current development using JS frameworks and libraries like jquery, angular and even just vanilla js.
 1. Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
