@@ -17,8 +17,8 @@
 
 - **BDD** - BDD is a process designed to aid the management and the delivery of software development projects by improving communication between engineers and business professionals. In so doing, BDD ensures all development projects remain focused on delivering what the business actually needs while meeting all requirements of the user. [src](https://inviqa.com/blog/bdd-guide#what-is-it)
 - **Acceptance Tests** - a method of software testing where a system is tested for acceptability. The major aim of this test is to evaluate the compliance of the system with the business requirements and assess whether it is acceptable for delivery or not. [src](https://www.geeksforgeeks.org/acceptance-testing-software-testing/)
-- **mounting** - Mounting is the phase in which our React component mounts on the DOM (i.e., is created and inserted into the DOM). This method is called just before a component mounts on the DOM or the render method is called. After this method, the component gets mounted. [src](https://www.freecodecamp.org/news/how-to-understand-a-components-lifecycle-methods-in-reactjs-e1a609840630/#:~:text=Mounting%20is%20the%20phase%20in,and%20inserted%20into%20the%20DOM).&text=This%20method%20is%20called%20just,method%2C%20the%20component%20gets%20mounted.)
-- **build** -
+- **mounting** - Mounting is the phase in which our React component mounts on the DOM (i.e., is created and inserted into the DOM). This method is called just before a component mounts on the DOM or the render method is called. After this method, the component gets mounted. [src](https://www.freecodecamp.org/news/how-to-understand-a-components-lifecycle-methods-in-reactjs-e1a609840630/#:~:text=Mounting)
+- **build** - the process of converting source code files into standalone software artifact(s) that can be run on a computer [src](https://en.wikipedia.org/wiki/Software_build)
 
 ## Preview
 
