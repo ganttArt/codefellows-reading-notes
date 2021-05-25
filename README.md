@@ -81,3 +81,4 @@
 
 - [Class 26 - Component Based UI](code401/class-26.md)
 - [Class 27 - Props & State](code401/class-27.md)
+- [Class 28 - Component Composition](code401/class-28.md)
