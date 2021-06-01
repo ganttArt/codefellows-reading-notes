@@ -81,9 +81,14 @@
 - [Class 27 - Props & State](code401/class-27.md)
 - [Class 28 - Component Composition](code401/class-28.md)
 - [Class 29 - Routing](code401/class-29.md)
+- [Class 31 - Hooks](code401/class-31.md)
+- [Class 32 - Custom Hooks](code401/class-32.md)
+- [Class 33 - Context API](code401/class-33.md)
+- [Class 34 - Login and Auth](code401/class-34.md)
 
 ### Data Structures
 
 - [Stacks & Queues](code401/class-09.md)
 - [Trees](code401/class-15.md)
 - [Hash Tables](code401/class-30.md)
+- [Graphs](code401/class-35.md)
