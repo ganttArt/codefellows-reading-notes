@@ -85,6 +85,12 @@
 - [Class 32 - Custom Hooks](code401/class-32.md)
 - [Class 33 - Context API](code401/class-33.md)
 - [Class 34 - Login and Auth](code401/class-34.md)
+- [Class 36 - Redux](code401/class-36.md)
+- [Class 37 - Redux - Combined Reducers](code401/class-37.md)
+- [Class 38 - Redux - Asynchronous Actions](code401/class-38.md)
+- [Class 39 - Redux - Additional Topics](code401/class-39.md)
+- [Class 41 - React Native](code401/class-41.md)
+- [Class 42 - Ethics](code401/class-42.md)
 
 ### Data Structures
 
