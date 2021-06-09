@@ -3,7 +3,7 @@
 ## Review, Research, and Discussion
 
 1. Why choose Redux instead of the Context API for global state?
-    - Becuase you can actually store that state between multiple files and not in one massive state object.
+    - Because you can actually store that state between multiple files and not in one massive state object.
 1. What is the purpose of a reducer?
     - It is a pure function that has a switch case. It evaluates the type of action and creates a new state based on the payload.
 1. What does an action contain?
